@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿![logo](https://github.com/abidt20ahmed/abidt20ahmed/blob/main/banner.png)
+﻿﻿﻿﻿﻿﻿![logo](https://github.com/Umme-Nahida/Umme-Nahida/blob/main/banner.png)
  <br>
 <h1 align="center">Hi 👋, This is Mahin</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/abidt20ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abidt20ahmed" height="30" width="40" /></a>
+<a href="https://codepen.io/Umme-Nahida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Umme-Nahida" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahin-ahammed-441809280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahin-ahammed-441809280" height="30" width="40" /></a>
 <a href="https://fb.com/abidahmed.mahin.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abidahmed.mahin.50" height="30" width="40" /></a>
-<a href="https://instagram.com/abidt20ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abidt20ahmed" height="30" width="40" /></a>
+<a href="https://instagram.com/Umme-Nahida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Umme-Nahida" height="30" width="40" /></a>
 </p>
 
 ## :computer: Technologies that I know
@@ -35,24 +35,24 @@
 
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&text_color=f5618d&bg_color=0a0d38"><img src="https://github-profile-trophy.vercel.app/?username=abidt20ahmed" alt="abidt20ahmed" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&text_color=f5618d&bg_color=0a0d38"><img src="https://github-profile-trophy.vercel.app/?username=Umme-Nahida" alt="Umme-Nahida" /></a> </p>
 
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abidt20ahmed&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Umme-Nahida&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 <br />
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=abidt20ahmed&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Umme-Nahida&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <br />
 
 <p inline align="center">
-  <img src="https://github.com/abidt20ahmed/abidt20ahmed/assets/93027437/7b20015d-5f26-4734-bbb0-5f2a6c1f0b2d" />
+  <img src="https://github.com/Umme-Nahida/Umme-Nahida/assets/93027437/7b20015d-5f26-4734-bbb0-5f2a6c1f0b2d" />
 </p>

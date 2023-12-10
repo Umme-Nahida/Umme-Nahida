@@ -1,7 +1,7 @@
 ﻿﻿﻿﻿﻿﻿![logo](https://github.com/Umme-Nahida/Umme-Nahida/blob/main/banner.png)
  <br>
-<h1 align="center">Hi 👋, This is Mahin</h1>
-<h3 align="center">Passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, This is Nahida</h1>
+<h3 align="center">Passionate Frontend & Backend Developer</h3>
 <br>
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-of-mahin.web.app/" target="blank">My Portfolio</a>
 
-- 📫 How to reach me **abidahmedmahin@gmail.com**
+- 📫 How to reach me **ummenahida20@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sV30c1faic-h75QJAeI9Yn5397Q37PTQ/view?usp=sharing" target="blank">My Resume</a>
 
-- 💬 Ask me about **JavaScript, React..**
+- 💬 Ask me about **JavaScript, React..Nodejs**
 
-- ⚡ Fun fact **I think I'm funny 😄**
+- ⚡ Fun fact **I can't think of anything without coding 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

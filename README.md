@@ -1,4 +1,5 @@
-﻿﻿﻿﻿﻿﻿![logo](https://github.com/Umme-Nahida/Umme-Nahida/blob/main/banner.png)
+﻿﻿<!-- ﻿﻿﻿﻿![logo](https://github.com/Umme-Nahida/Umme-Nahida/blob/main/banner.png) -->
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.ibb.co/bKWGSY1/smart-node-js-form-validation-2121ed1d3f15a6cd9776415c5db7d86f.png" />
  <br>
 <h1 align="center">Hi 👋, This is Nahida</h1>
 <h3 align="center">Passionate Frontend & Backend Developer</h3>
@@ -17,7 +18,7 @@
 
 - 💬 Ask me about **JavaScript, React..Nodejs**
 
-- ⚡ Fun fact **I can't think of anything without coding 😄**
+- ⚡ Fun fact **I can't think of anything without coding 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

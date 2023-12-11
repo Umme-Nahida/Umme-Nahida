@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **TypeScript & Mongoose**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-of-mahin.web.app/" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="#" target="blank">My Portfolio</a>
 
 - 📫 How to reach me **ummenahida20@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sV30c1faic-h75QJAeI9Yn5397Q37PTQ/view?usp=sharing" target="blank">My Resume</a>
+- 📄 Know about my experiences <a href="#" target="blank">My Resume</a>
 
 - 💬 Ask me about **JavaScript, React..Nodejs**
 
@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/Umme-Nahida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Umme-Nahida" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahin-ahammed-441809280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahin-ahammed-441809280" height="30" width="40" /></a>
-<a href="https://fb.com/abidahmed.mahin.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abidahmed.mahin.50" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-nahida-7a9215281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahin-ahammed-441809280" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100091270899658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abidahmed.mahin.50" height="30" width="40" /></a>
 <a href="https://instagram.com/Umme-Nahida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Umme-Nahida" height="30" width="40" /></a>
 </p>
 

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/DQkvGM1/Add-a-heading.jpg)
+﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/JRPgGws/Add-a-heading-2.jpg)
  <br>
 <h1 align="center">Hi 👋, This is Nahida</h1>
 <h3 align="center">Passionate Frontend & Backend Developer</h3>

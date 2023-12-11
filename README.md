@@ -1,5 +1,4 @@
 ﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/DQkvGM1/Add-a-heading.jpg)
-<!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.ibb.co/bKWGSY1/smart-node-js-form-validation-2121ed1d3f15a6cd9776415c5db7d86f.png" /> -->
  <br>
 <h1 align="center">Hi 👋, This is Nahida</h1>
 <h3 align="center">Passionate Frontend & Backend Developer</h3>

@@ -1,7 +1,7 @@
 ﻿﻿﻿﻿﻿﻿![logo](https://i.ibb.co/PzYBp5L/Add-a-heading-4.jpg)
  <br>
-<h1 align="center">Hi 👋, This is Nahida</h1>
-<h3 align="center">Passionate Frontend & Backend Developer</h3>
+<h1 align="center">Hi 👋, I am Nahida</h1>
+<h3 align="center">Passionate Frontend & MERN Stack Developer</h3>
 <br>
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Mongoose**
 
-- 👨‍💻 All of my projects are available at <a href="#" target="blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-gamma-three-47.vercel.app/" target="blank">My Portfolio</a>
 
 - 📫 How to reach me **ummenahida20@gmail.com**
 
